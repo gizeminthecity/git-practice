@@ -1,5 +1,5 @@
 Name: Gizmo
 Age: 32
 Favorite Color: Gray
-Favorite Music: Punk
+Favorite Music: Punk and Taylor Swift 
 Favorite Food: Cats
