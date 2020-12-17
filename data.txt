@@ -1,0 +1,5 @@
+Name: Gizmo
+Age: 32
+Favorite Color: Gray
+Favorite Music: Punk
+Favorite Food: Cats
